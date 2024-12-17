@@ -198,7 +198,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   ),
                   if (_isImageSelected) ...[
                     Positioned(
-                      top: 100.h,
+                      top: 101.h,
                       left: 0,
                       right: 0,
                       child: Row(
